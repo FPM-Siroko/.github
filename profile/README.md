@@ -16,3 +16,4 @@
 
 ## 🎈Why Siroko?
 ## 🐱😸😼😽😺🐺
+<img align="center" src="https://raw.githubusercontent.com/FPM-Siroko/.github/main/98774943_p0.jpg" style="width:100%;hborder-radius: 60px;"/>
