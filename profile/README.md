@@ -2,11 +2,10 @@
 
 <img align="right" src="https://avatars.githubusercontent.com/u/106871901" style="width:150px;height:150px;border-radius: 60px;"/>
 
-- :orange_book: Now I'm focusing on Deep Learning, Python and Embedded System Design. Also learning other interesting Techs.
-- 🚀: Sometimes I write some apps for fun with Electron or other frameworks.
-- 🔭 I'm currently working in AEA Group.Org, a tech club in UESTC.
-- :hammer: I'm now working to get my Bachelor's Degree in UESTC.
-- 📫 Our homepage is: https://github.com/FPM-Siroko/
+- :orange_book: Our project members are from UESTC, including 6 undergraduates and one postgraduate student.
+- 🚀: Our Project Uses FPM and Neural Network to Enhance the Resolution of the Images Taken by Optical Microscopes.
+- 🔭 Our future plan is to make use of our project to more relevant fields.
+- 📫 Our homepage is: https://github.com/FPM-Siroko/.
 
 ## 📈 Our Stats
 
