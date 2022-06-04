@@ -12,8 +12,3 @@
 |Community|Language|
 |---|---|
 |<img src="https://github-readme-stats.vercel.app/api?username=JimHans&show_icons=true&theme=github_dark&hide_title=false" />|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JimHans&layout=compact&hide=html&theme=github_dark&langs_count=8" style="height:195px;cursor:default" />|
-
-
-## 🎈Why Siroko?
-## 🐱😸😼😽😺🐺
-<img align="center" src="https://raw.githubusercontent.com/FPM-Siroko/.github/main/98774943_p0.jpg" style="width:100%;border-radius: 100px;"/>
