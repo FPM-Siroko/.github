@@ -1,2 +1,2 @@
-# .github
-A Readme of the Project
+# General Public Rep
+Project Public Repository
